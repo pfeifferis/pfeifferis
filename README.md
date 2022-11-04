@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Kevin Pfeiffer (@pfeiffer-dev)
-- 👀 I’m interested in data science, finance and medicine
-- 🌱 I’m currently learning django
-
-
-
+- 👋 Hi, I’m Kevin Pfeiffer (@kevinxpfeiffer)
+- 💼 I'm a student assistant @KatherLab
+- 👀 I’m interested in data science, medicine and finance
+- 🌱 I’m currently learning pytroch and tensorflow
